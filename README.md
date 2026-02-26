@@ -2,7 +2,7 @@
 
 QuantumVerse is a cinematic, immersive 3D experience designed to teach quantum computing through high-fidelity visualizations and interactive simulations.
 
-![Quantum Calculator](https://github.com/user-attachments/assets/placeholder)
+
 
 ## 🌌 Features
 
@@ -64,4 +64,4 @@ QuantumVerse is a cinematic, immersive 3D experience designed to teach quantum c
 
 ---
 
-Built with ❤️ for the future of Quantum Education.
+
